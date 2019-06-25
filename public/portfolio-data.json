@@ -1,0 +1,23 @@
+{
+    "portfolio": [
+        {
+            "project_name": "Future Cards Micro Site",
+            "client_name": "UIW",
+            "tags": [
+                {
+                    "name": "microsite"
+                }, {
+                    "name": "responsive"
+                }
+            ]
+        }, {
+            "project_name": "YMCA Pittsburgh",
+            "client_name": "YMCA",
+            "tags": [
+                {
+                    "name": "drupal"
+                } 
+            ]
+        }
+    ]
+}
